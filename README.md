@@ -1,4 +1,4 @@
-### Seja bem vindo!! Eu sou o Samuel Rocha, desenvolvedor Front-end júnior!
+### Seja bem vindo!! Eu sou o Samuel Rocha, desenvolvedor Front-end!
 
 - 🌱 Atualmente estou estudando HTML5, CSS3 E JavaScript
 
