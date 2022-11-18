@@ -1,6 +1,6 @@
 ### Seja bem vindo!! Eu sou o Samuel Rocha, desenvolvedor Front-end!
 
-- 🌱 Atualmente estou estudando HTML5, CSS3, JavaScript e React
+- 🌱 Atualmente estou estudando HTML5, CSS3, JavaScript, React e TypeScript
 
 <div align="center">
   <a href="https://github.com/samukamr">
